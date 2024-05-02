@@ -24,11 +24,11 @@ body {
     font-size: 16px;
 }
 
-.escola-imagem{
+.cafeteria-imagem{
     width: 25%;
 }
 
-.escola{
+.cafeteria{
     background-image: linear-gradient(#424E61,#16CFF8);
     color:white;
     display: flex;
@@ -37,38 +37,38 @@ body {
     padding: 24px 0;
 }
 
-.escola-div-conteudo{
+.bebidas-div-conteudo{
     width: 35%;
 }
 
 
-.escola-titulo{
+.bebidas-titulo{
     padding: 24px 0;
 }
 
-.estudante{
+.bebidas-div-conteudo{
     padding: 24px 0;
 }
-.estudante-imagem{
+.bebidas-div-conteudo{
     width: 120px;
 }
 
-.estudante-icone{
+.cafeteria-icone{
     width: 24px;
     padding: 4px 8px;
 }
 
-.estudante-div{
+.bebidas-div{
     text-align: center;
     padding: 16px 0;
 }
 
-.estudante-titulo{
+.cafeteria-titulo{
     text-align: center;
     padding: 50px 0;
 }
 
-.estudante-todos{
+.bebidas-todas{
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
 }
